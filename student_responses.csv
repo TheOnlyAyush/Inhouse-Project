@@ -1,0 +1,70 @@
+Timestamp,How confident are you in your programming skills? ,How often do you practice coding?  ,Which programming language are you most comfortable with?  ,What is your preferred way of learning technical concepts?  ,Have you ever participated in coding contests or hackathons?  ,How would you rate your understanding of Data Structures and Algorithms?  ,What are your learning goals for this semester?  ,How often do you seek help when stuck on a problem?  ,Do you prefer assessments with fixed difficulty or adaptive difficulty?  ,What challenges do you usually face while learning coding concepts?,"What is the output of the following code?
+print(2 + 3 * 4)","What is the output of the following code?
+
+num = 8  
+if num % 2 == 0:  
+    print(""Even"")  
+else:  
+    print(""Odd"")","What is the output of the following code?
+
+x = ""Hello""
+y = ""World""
+print(x + "" "" + y)","What is the output of the following code?
+a = 10  
+b = 5  
+a, b = b, a  
+print(a, b)","What is the output of the following code?
+fruits = [""apple"", ""banana"", ""cherry""]  
+print(fruits[1])","What is the output of the following code?
+print(len(""Python""))","What is the output of the following code?
+x = [1, 2, 3]  
+x.append(4)  
+print(x)","What is the output of the following code?
+
+def greet(name):  
+    return ""Hello "" + name
+
+print(greet(""Alex""))","What is the output of the following code?
+
+print(type(3.14))","What is the output of the following code?
+
+my_dict = {""name"": ""Alex"", ""age"": 21}  
+print(my_dict[""name""])","How easy was the first question of the exam? (1 = Very Difficult, 5 = Very Easy) ","How easy was the second question of the exam? (1 = Very Difficult, 5 = Very Easy) ","How easy was the third question of the exam? (1 = Very Difficult, 5 = Very Easy) ","How easy was the fourth question of the exam? (1 = Very Difficult, 5 = Very Easy) ","How easy was the fifth question of the exam? (1 = Very Difficult, 5 = Very Easy) ","How easy was the sixth question of the exam? (1 = Very Difficult, 5 = Very Easy) ","How easy was the seventh question of the exam? (1 = Very Difficult, 5 = Very Easy) ","How easy was the eighth question of the exam? (1 = Very Difficult, 5 = Very Easy) ","How easy was the ninth question of the exam? (1 = Very Difficult, 5 = Very Easy) ","How easy was the last question of the exam? (1 = Very Difficult, 5 = Very Easy) ","How confident were you before the exam? (1 = Not Confident at All, 5 = Very Confident)","How confident were you during the exam? (1 = Not Confident at All, 5 = Very Confident)","How well did you understand the questions provided for the exam? (1 = Not Clear at All, 5 = Very Clear)  ","How challenging did you find the exam overall? (1 = Very Easy, 5 = Very Challenging) ","How relevant were the questions to the topics you studied? (1 = Not Relevant at All, 5 = Highly Relevant)  ","How well did the exam format suit your learning style? (1 = Not Suitable at All, 5 = Very Suitable)  ",Email Address
+4/13/2025 17:44:59,4,Once a week,"Python, HTML, js",Hands-on practice,Yes,3,,Sometimes,Adaptive,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,float,Alex,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+4/13/2025 17:59:59,3,A few times a week,Java,Watching video tutorials,Yes,3,.,Often,Not sure,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,float,Alex,5,5,5,5,3,4,4,5,5,5,5,5,5,5,5,5,harikavankadari9@gmail.com
+4/13/2025 18:11:55,2,A few times a week,Python and Java,Hands-on practice,No,4,To develop proper coding skills required for today's industries.,Sometimes,Adaptive,Data flow concepts,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<class 'float'>,Alex,5,5,5,5,5,5,5,5,5,5,5,4,5,1,5,5,22btlca001@jainuniversity.ac.in
+4/13/2025 20:32:37,4,Once a week,Python ,Hands-on practice,Yes,3,Coding ,Sometimes,Adaptive,Ya,14,Option 1,Hello World,10 5,banana,6,1 2 3 4,Hello Alex,float,Alex,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,poojah2004@gmail.com
+4/13/2025 20:34:17,3,Once a week,Java,Hands-on practice,No,4,,Sometimes,Adaptive,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<type 'float'>,Alex,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,trishatanvis@gmail.com
+4/13/2025 20:34:49,2,Rarely,Python,Watching video tutorials,No,4,,Often,Adaptive,,14,Option 1,Hello World,10 5,banana,6,"[1, 2, 3, 4]",Hello Alex,<class 'float'>,Alex,5,5,5,5,5,5,5,5,5,5,3,5,5,1,3,3,yoshithapunnati@gmail.com
+4/13/2025 20:37:22,3,Rarely,Python,Hands-on practice,No,2,"Web dev, python and dbms",Sometimes,Adaptive,,14,Option 1,HelloWorld,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,float,Alex,5,5,5,5,5,5,5,5,5,5,5,5,5,1,5,3,22btrcn008@jainuniversity.ac.in
+4/13/2025 20:46:44,1,Never,Nothing,Hands-on practice,No,3,,Often,Adaptive,,14,Option 1,Hello World,5 10,apple,6,"[1, 2, 3, 4]",Hello Alex,float,Alex,5,5,5,5,5,5,5,5,5,5,2,5,5,1,5,5,adithyachintu55@gmail.com
+4/13/2025 20:47:42,4,Daily,java,Watching video tutorials,Yes,3,,Often,Adaptive,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<class 'float'>,Alex,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,juisch20220011014@gmail.com
+4/13/2025 20:54:14,3,Rarely,Python,Watching video tutorials,No,2,,Always,Adaptive,,14,Option 1,HelloWorld,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<class 'float'>,Alex,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,22btrcn085@jainuniversity.ac.in
+4/13/2025 20:54:19,1,Never,None,Reading documentation,No,1,,Never,Not sure,,14,Option 1,Hello World,5 10,banana,7,1 2 3 4,Hello Alex,<type 'float'>,Alex,5,5,5,5,5,5,5,5,5,5,5,5,5,1,1,1,vk1488890@gmail.com
+4/13/2025 20:55:56,3,Rarely,Python ,Watching video tutorials,Yes,2,To start something ,Always,Not sure,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,float,Alex,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,22btrcn193@jainuniversity.ac.in
+4/13/2025 20:59:56,4,A few times a week,Javascript ,Hands-on practice,Yes,3,,Often,Adaptive,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<class 'float'>,Alex,5,5,5,5,5,5,5,5,5,5,4,5,5,4,5,4,contact.abhii10@gmail.com
+4/13/2025 21:01:31,3,Rarely,Java,Watching video tutorials,Yes,3,,Rarely,Adaptive,,15,Option 1,HelloWorld,10 5,fruits[1],6,"[1, 2, 3, 4]",Hello Alex,<type 'float'>,Alex,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,3,pnagatejasp@gmail.com
+4/13/2025 21:12:18,3,Daily,Java,Hands-on practice,No,3,,Always,Fixed,,14,Option 1,Hello World,5 10,banana,5,"[1, 2, 3, 4]",Hello Alex,<class 'float'>,Alex,4,4,3,5,5,4,5,4,5,5,4,5,5,2,4,4,aishurk019@gmail.com
+4/13/2025 21:17:22,5,Never,Every,Reading documentation,No,5,Building Project,Sometimes,Not sure,i don't learn i use,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<class 'float'>,Alex,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,juisch20220010845@gmail.com
+4/13/2025 21:32:27,4,Daily,Java and python ,Hands-on practice,No,5,DB connections and machine learning algorithms ,Rarely,Adaptive,While practicing I will be missing my logic some times ,15,Option 1,Hello World,5 10,fruits[1],6,1 2 3 4,Hello Alex,float,Alex,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,22btrcn092@jainuniversity.ac.in
+4/13/2025 21:54:20,2,Once a week,Java,Hands-on practice,No,2,,Often,Not sure,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<class 'float'>,Alex,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,22btrcn087@jainuniversity.ac.in
+4/13/2025 22:02:01,3,Once a week,Python,Watching video tutorials,No,2,DSA,Often,Not sure,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,float,Alex,5,5,5,5,5,5,5,5,5,5,5,5,5,1,5,5,harshabathala12@gmail.com
+4/13/2025 22:12:29,3,Once a week,Good ,Hands-on practice,Yes,3,Good ,Rarely,Fixed,Good,14,Option 1,Helloworld,10 5,apple,6,"[1, 2, 3, 4]",Hello Alex,<class 'float'>,"my_dict[""name""]",3,2,2,4,4,3,3,4,4,5,4,3,4,1,3,3,manojgandla15@gmail.com
+4/14/2025 9:12:11,3,Once a week,Java,One-on-one mentoring,No,2,Learn gen AI concepts and improve coding,Always,Adaptive,Resolving errors,14,Option 1,Hello World,5 10,banana,7,"[1, 2, 3, 4]",Hello Alex,float,Alex,5,5,5,5,5,5,5,5,5,5,3,4,5,1,5,4,juug22btech33193@gmail.com
+4/14/2025 14:39:33,3,Once a week,Java,Hands-on practice,Yes,2,Complete DSA,Sometimes,Adaptive,To crack the logic sometimes.,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<type 'float'>,Alex,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,sarkhelaritra.jmt.47@gmail.com
+4/14/2025 14:39:36,3,Daily,JavaScript,Watching video tutorials,No,3,,Often,Adaptive,,14,Option 1,Hello World,5 10,apple,6,"[1, 2, 3, 4]",Hello Alex,float,name,5,5,5,5,5,5,5,5,5,5,5,5,4,2,3,3,aayushkhanal810@gmail.com
+4/14/2025 14:43:57,3,A few times a week,Python ,Reading documentation,Yes,3,AI ,Often,Adaptive,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<class 'float'>,Alex,3,3,3,3,3,4,4,4,5,4,4,3,3,3,4,3,aashraya11@gmail.com
+4/14/2025 15:48:23,3,A few times a week,Java,Watching video tutorials,Yes,2,,Sometimes,Not sure,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,float,Alex,5,5,5,5,5,5,5,5,5,5,3,3,4,3,3,3,badhanbanik15@gmail.com
+4/14/2025 17:18:15,4,Daily,"Python,C",Watching video tutorials,Yes,3,,Always,Fixed,Not able to do on own,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<type 'float'>,Alex,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,nikkyapandey@gmail.com
+4/14/2025 17:20:44,2,A few times a week,Javascript,Hands-on practice,Yes,2,,Sometimes,Adaptive,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<class 'float'>,Alex,5,4,4,5,4,5,4,5,4,5,5,1,5,4,5,4,22btrcn223@jainuniversity.ac.in
+4/15/2025 9:32:26,4,A few times a week,Python,Hands-on practice,Yes,3,Fluency in DSA and a real world project,Often,Adaptive,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<type 'float'>,Alex,4,4,5,5,4,4,5,5,5,5,5,4,5,2,5,5,22btrca063@jainuniversity.ac.in
+4/15/2025 9:34:33,3,A few times a week,"Python, java ",Watching video tutorials,Yes,3,,Often,Adaptive,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,float,Alex,3,3,3,3,3,3,3,3,3,3,3,4,4,3,4,3,22btrca010@jainuniversity.ac.in
+4/15/2025 9:34:56,3,A few times a week,"Python,java,html",Watching video tutorials,No,4,,Sometimes,Not sure,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,float,Alex,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,22btrca042@jainuniversity.ac.in
+4/15/2025 9:40:13,2,Once a week,java,Reading documentation,Yes,2,i don't ,Sometimes,Adaptive,guidance ,14,Option 1,Hello World,5 10,banana,10,"[1, 2, 3, 4]",Hello Alex,<class 'int'>,name,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,pesalachakradharreddy21@gmail.com
+4/16/2025 17:58:54,3,Rarely,Python ,Watching video tutorials,No,2,,Always,Adaptive,,14,Option 1,HelloWorld,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<class 'float'>,Alex,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,esfx53626@gmail.com
+4/16/2025 18:03:46,4,A few times a week,"Java, Python",Watching video tutorials,Yes,4,,Often,Adaptive,,14,Option 1,HelloWorld,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<class 'float'>,Alex,5,5,5,5,5,5,5,5,5,5,4,5,5,5,4,5,sinhaaditya0110@gmail.com
+4/17/2025 11:33:05,4,A few times a week,Java,Hands-on practice,Yes,4,,Always,Adaptive,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,float,Alex,5,5,5,5,5,5,5,5,5,5,5,5,5,1,4,3,juisch20220010506@gmail.com
+4/17/2025 11:51:23,1,Rarely,puthin,Watching video tutorials,No,3,,Often,Adaptive,,14,Option 1,Hello World,5 10,apple,6,"[1, 2, 3, 4]",Alex Hello,<type 'float'>,21,3,3,4,4,4,3,4,2,4,4,4,4,3,3,3,3,chethan23g@gmail.com
+4/17/2025 15:44:28,3,Daily,"Java , python",Hands-on practice,Yes,3,,Often,Adaptive,,14,Option 1,Hello World,5 10,banana,5,"[1, 2, 3, 4]",Hello Alex,float,Alex,5,5,5,5,5,5,5,5,5,5,5,5,5,1,5,5,aakriti.sah.50@gmail.com
+4/18/2025 22:04:16,3,Once a week,JavaScript ,Hands-on practice,No,3,,Always,Adaptive,,14,Option 1,Hello World,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<class 'float'>,Alex,4,4,4,4,4,5,5,4,5,5,5,4,5,1,5,5,ananddyuthi@gmail.com
+4/18/2025 22:47:41,4,A few times a week,Python ,Watching video tutorials,Yes,2,Pass,Sometimes,Adaptive,,15,Option 1,HelloWorld,5 10,banana,6,"[1, 2, 3, 4]",Hello Alex,<type 'float'>,Alex,5,5,5,5,5,5,5,5,5,5,5,5,5,1,3,2,satvik.ahuja13@gmail.com
